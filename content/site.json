@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "badge": "● Your Digital Partner",
+    "title": "Where Creativity Meets Digital Precision",
+    "subtitle": "We turn bold concepts into high-performing digital experiences, crafting bespoke web architectures and visually captivating brand identities built for growth.",
+    "cta1": {
+      "text": "Explore Our Work",
+      "link": "#work"
+    },
+    "cta2": {
+      "text": "Start a Project",
+      "link": "#services"
+    },
+    "techStack": [
+      "Google",
+      "WordPress",
+      "Facebook",
+      "TikTok",
+      "Cloudflare",
+      "Canva",
+      "HTML5",
+      "CSS3",
+      "JS",
+      "React",
+      "GitHub"
+    ]
+  },
+  "projects": [
+    {
+      "id": "1",
+      "tag": "Graphic Design",
+      "title": "Elite Brand Identity",
+      "desc": "Comprehensive visual identity and luxury branding system created for high-growth tech innovators.",
+      "image": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": "2",
+      "tag": "Web Development",
+      "title": "Modern E-Commerce Site",
+      "desc": "High-conversion headless storefront built with instantaneous page loads, micro-interactions, and frictionless checkout.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": "3",
+      "tag": "UI/UX Design",
+      "title": "Mobile App Concept",
+      "desc": "Sleek iOS and Android design system focusing on intuitive gesture flows, accessibility, and dark mode ergonomics.",
+      "image": "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?q=80&w=1200&auto=format&fit=crop"
+    }
+  ],
+  "whyChoose": [
+    {
+      "id": "1",
+      "title": "Technical Expertise",
+      "desc": "Our team combines modern engineering standards with meticulous artistic discipline to deliver resilient digital systems."
+    },
+    {
+      "id": "2",
+      "title": "Total Customization",
+      "desc": "Every visual asset, layout, and interaction is custom-engineered to elevate your brand's unique market position."
+    },
+    {
+      "id": "3",
+      "title": "Performance Obsessed",
+      "desc": "Sub-second response times, Core Web Vitals optimization, and clean architectures engineered to convert visitors."
+    },
+    {
+      "id": "4",
+      "title": "Transparent Collaboration",
+      "desc": "Clear milestones, proactive communication, and dedicated ongoing maintenance beyond delivery."
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "icon": "Code2",
+      "title": "Web Development",
+      "desc": "Modern, reactive web applications built with Next.js, TypeScript, and cloud-edge infrastructure."
+    },
+    {
+      "id": "2",
+      "icon": "Layout",
+      "title": "UI/UX Design",
+      "desc": "User-first design systems, wireframes, and prototypes engineered for optimal clarity and delight."
+    },
+    {
+      "id": "3",
+      "icon": "Sparkles",
+      "title": "Visual Excellence",
+      "desc": "High-impact visual branding, vector iconography, motion assets, and comprehensive brand guidelines."
+    },
+    {
+      "id": "4",
+      "icon": "TrendingUp",
+      "title": "SEO & Growth",
+      "desc": "Organic discovery maximization via technical SEO, semantic structured data, and search performance tuning."
+    }
+  ],
+  "featuredPost": {
+    "title": "Beyond the Logo",
+    "subtitle": "The Architectural Anatomy of a Timeless Brand Identity",
+    "excerpt": "Explore how modern digital agencies synthesize psychological resonance, typography hierarchy, and motion physics to craft brands that endure across rapid digital shifts.",
+    "date": "March 2026",
+    "readTime": "5 min read",
+    "category": "Brand Architecture",
+    "link": "#",
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1200&auto=format&fit=crop"
+  },
+  "footer": {
+    "tagline": "Where Creativity Meets Digital Precision.",
+    "copyright": "© RanginGfx. All rights reserved."
+  }
+}
